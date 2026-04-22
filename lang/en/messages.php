@@ -1,0 +1,37 @@
+<?php
+
+return [
+    'home' => 'Home Page',
+    'ratings' => 'Ratings',
+    'athletes' => 'Athletes',
+    'competitions' => 'Competitions',
+    'news' => 'News',
+    'login' => 'Login',
+    'sport' => 'Sport',
+    'reyting' => 'Rating',
+    'title' => "Uzbekistan National Sports Ranking System",
+    'nice_athletes' => 'Best of the month',
+    'top_athletes' => 'TOP ATHLETES',
+    'view' => "View All",
+    'schedule' => 'Overall Table',
+    'now_reyting' => 'Current Rating',
+    'near_events' => 'Upcoming Events',
+    'sports' => 'Sports Types',
+    'medals' => 'Medals',
+    'sport_news' => 'Sports News',
+    'athlete'=> 'Athlete',
+    'sport_type' => 'Sport Type',
+    'region' => 'Region',
+    'rank' => 'Rank Position',
+    'city' => 'City',
+    'point' => 'Point',
+    'country' => 'Country',
+    'search' => 'Search',
+    'search_athlete' => 'Search Athlete',
+    'search_sport' => 'Search Sport',
+    'search_city' => 'Search City',
+    'search_country' => 'Search Country',
+    'search_region' => 'Search Region',
+    'search_sport_type' => 'Search Sport Type'
+
+];
